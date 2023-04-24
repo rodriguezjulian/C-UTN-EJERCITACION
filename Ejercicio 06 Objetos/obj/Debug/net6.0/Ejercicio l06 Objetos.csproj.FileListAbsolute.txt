@@ -1,0 +1,15 @@
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Ejercicio 06 Objetos\bin\Debug\net6.0\Ejercicio l06 Objetos.exe
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Ejercicio 06 Objetos\bin\Debug\net6.0\Ejercicio l06 Objetos.deps.json
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Ejercicio 06 Objetos\bin\Debug\net6.0\Ejercicio l06 Objetos.runtimeconfig.json
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Ejercicio 06 Objetos\bin\Debug\net6.0\Ejercicio l06 Objetos.dll
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Ejercicio 06 Objetos\bin\Debug\net6.0\Ejercicio l06 Objetos.pdb
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Ejercicio 06 Objetos\obj\Debug\net6.0\Ejercicio l06 Objetos.csproj.AssemblyReference.cache
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Ejercicio 06 Objetos\obj\Debug\net6.0\Ejercicio l06 Objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Ejercicio 06 Objetos\obj\Debug\net6.0\Ejercicio l06 Objetos.AssemblyInfoInputs.cache
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Ejercicio 06 Objetos\obj\Debug\net6.0\Ejercicio l06 Objetos.AssemblyInfo.cs
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Ejercicio 06 Objetos\obj\Debug\net6.0\Ejercicio l06 Objetos.csproj.CoreCompileInputs.cache
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Ejercicio 06 Objetos\obj\Debug\net6.0\Ejercicio l06 Objetos.dll
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Ejercicio 06 Objetos\obj\Debug\net6.0\refint\Ejercicio l06 Objetos.dll
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Ejercicio 06 Objetos\obj\Debug\net6.0\Ejercicio l06 Objetos.pdb
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Ejercicio 06 Objetos\obj\Debug\net6.0\Ejercicio l06 Objetos.genruntimeconfig.cache
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Ejercicio 06 Objetos\obj\Debug\net6.0\ref\Ejercicio l06 Objetos.dll

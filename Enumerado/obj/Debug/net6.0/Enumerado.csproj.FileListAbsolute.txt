@@ -1,0 +1,15 @@
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Enumerado\obj\Debug\net6.0\Enumerado.csproj.AssemblyReference.cache
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Enumerado\obj\Debug\net6.0\Enumerado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Enumerado\obj\Debug\net6.0\Enumerado.AssemblyInfoInputs.cache
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Enumerado\obj\Debug\net6.0\Enumerado.AssemblyInfo.cs
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Enumerado\obj\Debug\net6.0\Enumerado.csproj.CoreCompileInputs.cache
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Enumerado\bin\Debug\net6.0\Enumerado.exe
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Enumerado\bin\Debug\net6.0\Enumerado.deps.json
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Enumerado\bin\Debug\net6.0\Enumerado.runtimeconfig.json
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Enumerado\bin\Debug\net6.0\Enumerado.dll
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Enumerado\bin\Debug\net6.0\Enumerado.pdb
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Enumerado\obj\Debug\net6.0\Enumerado.dll
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Enumerado\obj\Debug\net6.0\refint\Enumerado.dll
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Enumerado\obj\Debug\net6.0\Enumerado.pdb
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Enumerado\obj\Debug\net6.0\Enumerado.genruntimeconfig.cache
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Enumerado\obj\Debug\net6.0\ref\Enumerado.dll

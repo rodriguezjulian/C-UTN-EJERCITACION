@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Billetes/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Billetes.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Billetes.dll": {}
+        }
+      },
+      "IngresoDatos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/IngresoDatos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IngresoDatos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Billetes/1.0.0": {
+      "type": "project",
+      "path": "../Billetes/Billetes.csproj",
+      "msbuildProject": "../Billetes/Billetes.csproj"
+    },
+    "IngresoDatos/1.0.0": {
+      "type": "project",
+      "path": "../IngresoDatos/IngresoDatos.csproj",
+      "msbuildProject": "../IngresoDatos/IngresoDatos.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Billetes >= 1.0.0",
+      "IngresoDatos >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Julian Rodriguez\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Julian Rodriguez\\source\\repos\\Julian.Manuel.Rodriguez.2B\\ConsoleApp1\\POO Ejercicio 02.csproj",
+      "projectName": "POO Ejercicio 02",
+      "projectPath": "C:\\Users\\Julian Rodriguez\\source\\repos\\Julian.Manuel.Rodriguez.2B\\ConsoleApp1\\POO Ejercicio 02.csproj",
+      "packagesPath": "C:\\Users\\Julian Rodriguez\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Julian Rodriguez\\source\\repos\\Julian.Manuel.Rodriguez.2B\\ConsoleApp1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Julian Rodriguez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Julian Rodriguez\\source\\repos\\Julian.Manuel.Rodriguez.2B\\Billetes\\Billetes.csproj": {
+              "projectPath": "C:\\Users\\Julian Rodriguez\\source\\repos\\Julian.Manuel.Rodriguez.2B\\Billetes\\Billetes.csproj"
+            },
+            "C:\\Users\\Julian Rodriguez\\source\\repos\\Julian.Manuel.Rodriguez.2B\\IngresoDatos\\IngresoDatos.csproj": {
+              "projectPath": "C:\\Users\\Julian Rodriguez\\source\\repos\\Julian.Manuel.Rodriguez.2B\\IngresoDatos\\IngresoDatos.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

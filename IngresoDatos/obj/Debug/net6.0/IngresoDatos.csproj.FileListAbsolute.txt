@@ -1,0 +1,12 @@
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\IngresoDatos\bin\Debug\net6.0\IngresoDatos.deps.json
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\IngresoDatos\bin\Debug\net6.0\IngresoDatos.dll
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\IngresoDatos\bin\Debug\net6.0\IngresoDatos.pdb
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\IngresoDatos\obj\Debug\net6.0\IngresoDatos.csproj.AssemblyReference.cache
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\IngresoDatos\obj\Debug\net6.0\IngresoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\IngresoDatos\obj\Debug\net6.0\IngresoDatos.AssemblyInfoInputs.cache
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\IngresoDatos\obj\Debug\net6.0\IngresoDatos.AssemblyInfo.cs
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\IngresoDatos\obj\Debug\net6.0\IngresoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\IngresoDatos\obj\Debug\net6.0\IngresoDatos.dll
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\IngresoDatos\obj\Debug\net6.0\refint\IngresoDatos.dll
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\IngresoDatos\obj\Debug\net6.0\IngresoDatos.pdb
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\IngresoDatos\obj\Debug\net6.0\ref\IngresoDatos.dll

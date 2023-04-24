@@ -1,0 +1,21 @@
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\WF Ejercicio C01\bin\Debug\net6.0-windows\WF Ejercicio C01.exe
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\WF Ejercicio C01\bin\Debug\net6.0-windows\WF Ejercicio C01.deps.json
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\WF Ejercicio C01\bin\Debug\net6.0-windows\WF Ejercicio C01.runtimeconfig.json
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\WF Ejercicio C01\bin\Debug\net6.0-windows\WF Ejercicio C01.dll
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\WF Ejercicio C01\bin\Debug\net6.0-windows\WF Ejercicio C01.pdb
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\WF Ejercicio C01\bin\Debug\net6.0-windows\Billetes.dll
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\WF Ejercicio C01\bin\Debug\net6.0-windows\Billetes.pdb
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\WF Ejercicio C01\obj\Debug\net6.0-windows\WF Ejercicio C01.csproj.AssemblyReference.cache
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\WF Ejercicio C01\obj\Debug\net6.0-windows\WF Ejercicio C01.csproj.GenerateResource.cache
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\WF Ejercicio C01\obj\Debug\net6.0-windows\WF Ejercicio C01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\WF Ejercicio C01\obj\Debug\net6.0-windows\WF Ejercicio C01.AssemblyInfoInputs.cache
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\WF Ejercicio C01\obj\Debug\net6.0-windows\WF Ejercicio C01.AssemblyInfo.cs
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\WF Ejercicio C01\obj\Debug\net6.0-windows\WF Ejercicio C01.csproj.CoreCompileInputs.cache
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\WF Ejercicio C01\obj\Debug\net6.0-windows\WF Ejercicio C01.csproj.CopyComplete
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\WF Ejercicio C01\obj\Debug\net6.0-windows\WF Ejercicio C01.dll
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\WF Ejercicio C01\obj\Debug\net6.0-windows\refint\WF Ejercicio C01.dll
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\WF Ejercicio C01\obj\Debug\net6.0-windows\WF Ejercicio C01.pdb
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\WF Ejercicio C01\obj\Debug\net6.0-windows\WF Ejercicio C01.genruntimeconfig.cache
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\WF Ejercicio C01\obj\Debug\net6.0-windows\ref\WF Ejercicio C01.dll
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\WF Ejercicio C01\obj\Debug\net6.0-windows\WF_Ejercicio_C01.Properties.Resources.resources
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\WF Ejercicio C01\obj\Debug\net6.0-windows\WF_Ejercicio_C01.Form1.resources

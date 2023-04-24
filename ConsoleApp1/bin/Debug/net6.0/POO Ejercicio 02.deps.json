@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "POO Ejercicio 02/1.0.0": {
+        "dependencies": {
+          "Billetes": "1.0.0",
+          "IngresoDatos": "1.0.0"
+        },
+        "runtime": {
+          "POO Ejercicio 02.dll": {}
+        }
+      },
+      "Billetes/1.0.0": {
+        "runtime": {
+          "Billetes.dll": {}
+        }
+      },
+      "IngresoDatos/1.0.0": {
+        "runtime": {
+          "IngresoDatos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "POO Ejercicio 02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Billetes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IngresoDatos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

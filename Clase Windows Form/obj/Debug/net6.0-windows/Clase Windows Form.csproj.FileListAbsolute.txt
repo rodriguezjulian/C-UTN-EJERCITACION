@@ -1,0 +1,18 @@
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Clase Windows Form\bin\Debug\net6.0-windows\Clase Windows Form.exe
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Clase Windows Form\bin\Debug\net6.0-windows\Clase Windows Form.deps.json
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Clase Windows Form\bin\Debug\net6.0-windows\Clase Windows Form.runtimeconfig.json
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Clase Windows Form\bin\Debug\net6.0-windows\Clase Windows Form.dll
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Clase Windows Form\bin\Debug\net6.0-windows\Clase Windows Form.pdb
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Clase Windows Form\obj\Debug\net6.0-windows\Clase Windows Form.csproj.AssemblyReference.cache
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Clase Windows Form\obj\Debug\net6.0-windows\Clase_Windows_Form.Form1.resources
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Clase Windows Form\obj\Debug\net6.0-windows\Clase_Windows_Form.Properties.Resources.resources
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Clase Windows Form\obj\Debug\net6.0-windows\Clase Windows Form.csproj.GenerateResource.cache
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Clase Windows Form\obj\Debug\net6.0-windows\Clase Windows Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Clase Windows Form\obj\Debug\net6.0-windows\Clase Windows Form.AssemblyInfoInputs.cache
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Clase Windows Form\obj\Debug\net6.0-windows\Clase Windows Form.AssemblyInfo.cs
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Clase Windows Form\obj\Debug\net6.0-windows\Clase Windows Form.csproj.CoreCompileInputs.cache
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Clase Windows Form\obj\Debug\net6.0-windows\Clase Windows Form.dll
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Clase Windows Form\obj\Debug\net6.0-windows\refint\Clase Windows Form.dll
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Clase Windows Form\obj\Debug\net6.0-windows\Clase Windows Form.pdb
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Clase Windows Form\obj\Debug\net6.0-windows\Clase Windows Form.genruntimeconfig.cache
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Clase Windows Form\obj\Debug\net6.0-windows\ref\Clase Windows Form.dll

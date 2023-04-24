@@ -1,0 +1,12 @@
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Billetes\bin\Debug\net6.0\Billetes.deps.json
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Billetes\bin\Debug\net6.0\Billetes.dll
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Billetes\bin\Debug\net6.0\Billetes.pdb
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Billetes\obj\Debug\net6.0\Billetes.csproj.AssemblyReference.cache
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Billetes\obj\Debug\net6.0\Billetes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Billetes\obj\Debug\net6.0\Billetes.AssemblyInfoInputs.cache
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Billetes\obj\Debug\net6.0\Billetes.AssemblyInfo.cs
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Billetes\obj\Debug\net6.0\Billetes.csproj.CoreCompileInputs.cache
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Billetes\obj\Debug\net6.0\Billetes.dll
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Billetes\obj\Debug\net6.0\refint\Billetes.dll
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Billetes\obj\Debug\net6.0\Billetes.pdb
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Billetes\obj\Debug\net6.0\ref\Billetes.dll
