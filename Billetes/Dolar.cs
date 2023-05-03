@@ -27,7 +27,7 @@ namespace Billetes
             Dolar.cotizacionRespectoDolar = cotizacion;
         }
 
-        public double Cantidad
+        public  double Cantidad
         {
             get
             {

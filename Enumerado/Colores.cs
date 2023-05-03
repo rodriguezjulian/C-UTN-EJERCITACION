@@ -10,10 +10,9 @@ namespace Enumerado
     {
         //Si quiero darle valores, le puedo dar por ejemplo rojo=100 y ya el azul automaticamente pasa a ser el 101.
         Rojo,
+        Blanco,
         Azul,
-        Amarillo,
-        Verde,
-        Negro,
-        Rosa
+        Gris,
+        Negro  
     }
 }

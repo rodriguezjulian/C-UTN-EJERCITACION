@@ -1,0 +1,23 @@
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Ejercicio 1H\bin\Debug\net6.0\Enumerado.deps.json
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Ejercicio 1H\bin\Debug\net6.0\Enumerado.runtimeconfig.json
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Ejercicio 1H\bin\Debug\net6.0\Enumerado.exe
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Ejercicio 1H\bin\Debug\net6.0\Ejercicio 1H.exe
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Ejercicio 1H\bin\Debug\net6.0\Ejercicio 1H.deps.json
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Ejercicio 1H\bin\Debug\net6.0\Ejercicio 1H.runtimeconfig.json
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Ejercicio 1H\bin\Debug\net6.0\Ejercicio 1H.dll
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Ejercicio 1H\bin\Debug\net6.0\Ejercicio 1H.pdb
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Ejercicio 1H\bin\Debug\net6.0\Enumerado.dll
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Ejercicio 1H\bin\Debug\net6.0\Vehiculos.dll
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Ejercicio 1H\bin\Debug\net6.0\Enumerado.pdb
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Ejercicio 1H\bin\Debug\net6.0\Vehiculos.pdb
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Ejercicio 1H\obj\Debug\net6.0\Ejercicio 1H.csproj.AssemblyReference.cache
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Ejercicio 1H\obj\Debug\net6.0\Ejercicio 1H.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Ejercicio 1H\obj\Debug\net6.0\Ejercicio 1H.AssemblyInfoInputs.cache
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Ejercicio 1H\obj\Debug\net6.0\Ejercicio 1H.AssemblyInfo.cs
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Ejercicio 1H\obj\Debug\net6.0\Ejercicio 1H.csproj.CoreCompileInputs.cache
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Ejercicio 1H\obj\Debug\net6.0\Ejercicio 1H.csproj.CopyComplete
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Ejercicio 1H\obj\Debug\net6.0\Ejercicio 1H.dll
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Ejercicio 1H\obj\Debug\net6.0\refint\Ejercicio 1H.dll
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Ejercicio 1H\obj\Debug\net6.0\Ejercicio 1H.pdb
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Ejercicio 1H\obj\Debug\net6.0\Ejercicio 1H.genruntimeconfig.cache
+C:\Users\Julian Rodriguez\source\repos\Julian.Manuel.Rodriguez.2B\Ejercicio 1H\obj\Debug\net6.0\ref\Ejercicio 1H.dll

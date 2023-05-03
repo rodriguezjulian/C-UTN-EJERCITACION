@@ -8,25 +8,25 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Users\\Julian Rodriguez\\source\\repos\\Julian.Manuel.Rodriguez.2B\\Billetes\\Billetes.csproj",
-        "projectName": "Clase Windows Form",
+        "projectName": "Billetes",
         "projectPath": "C:\\Users\\Julian Rodriguez\\source\\repos\\Julian.Manuel.Rodriguez.2B\\Billetes\\Billetes.csproj",
         "packagesPath": "C:\\Users\\Julian Rodriguez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Julian Rodriguez\\source\\repos\\Julian.Manuel.Rodriguez.2B\\Clase Windows Form\\obj\\",
+        "outputPath": "C:\\Users\\Julian Rodriguez\\source\\repos\\Julian.Manuel.Rodriguez.2B\\Billetes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Julian Rodriguez\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0-windows"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0-windows7.0": {
-            "targetAlias": "net6.0-windows",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -37,8 +37,8 @@
         }
       },
       "frameworks": {
-        "net6.0-windows7.0": {
-          "targetAlias": "net6.0-windows",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",

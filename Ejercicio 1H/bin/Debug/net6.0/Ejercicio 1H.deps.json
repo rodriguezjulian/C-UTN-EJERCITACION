@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ejercicio 1H/1.0.0": {
+        "dependencies": {
+          "Enumerado": "1.0.0",
+          "Vehiculos": "1.0.0"
+        },
+        "runtime": {
+          "Ejercicio 1H.dll": {}
+        }
+      },
+      "Enumerado/1.0.0": {
+        "runtime": {
+          "Enumerado.dll": {}
+        }
+      },
+      "Vehiculos/1.0.0": {
+        "dependencies": {
+          "Enumerado": "1.0.0"
+        },
+        "runtime": {
+          "Vehiculos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio 1H/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Enumerado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Vehiculos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
